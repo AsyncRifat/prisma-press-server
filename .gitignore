@@ -1,0 +1,9 @@
+node_modules
+dist
+generated
+.env
+/generated/prisma
+.agents/
+.claude/
+.windsurf/
+skills-lock.json
